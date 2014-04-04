@@ -8,7 +8,7 @@ Test du **gras**
 
 Test de l'*italique*
 
-Lien vers [google](www.google.fr)
+Lien vers [google](http://www.google.fr)
 
 > citation
 
@@ -20,6 +20,6 @@ Lien vers [google](www.google.fr)
 
 1. item
 2. item
-3. item
+
 
 
